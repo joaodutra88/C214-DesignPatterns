@@ -1,14 +1,15 @@
 {
-  "name": "c214-designpatterns",
-  "version": "1.0.0",
-  "description": "C214 - Engenharia de Software - Exercício prático - Design Patterns",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^29.5.0"
-  }
+   "name": "c214-designpatterns",
+   "version": "1.0.0",
+   "description": "C214 - Engenharia de Software - Exercício prático - Design Patterns",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node ./src/index.js"
+   },
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "jest": "^29.5.0"
+   }
 }
