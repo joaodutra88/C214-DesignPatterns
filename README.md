@@ -31,7 +31,7 @@ ou
 yarn install
 ```
 
-### Uso
+## Uso
 
 Após a instalação das dependências, você pode executar o programa através do seguinte comando:
 
@@ -41,7 +41,7 @@ npm start
 
 Isso irá iniciar o programa.
 
-### Testes
+## Testes
 
 O programa inclui testes unitários para verificar se as funcionalidades estão corretas. Para executar os testes, utilize o seguinte comando:
 
