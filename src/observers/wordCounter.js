@@ -22,6 +22,12 @@ class WordCounter {
          evenCharCountWords,
          capitalizedWordsCount
       );
+
+      return {
+         allWordsCount,
+         evenCharCountWords,
+         capitalizedWordsCount,
+      };
    }
 
    notifyObservers(allWordsCount, evenCharCountWords, capitalizedWordsCount) {
