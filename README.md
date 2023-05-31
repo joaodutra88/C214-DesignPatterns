@@ -46,7 +46,7 @@ Isso irá iniciar o programa.
 O programa inclui testes unitários para verificar se as funcionalidades estão corretas. Para executar os testes, utilize o seguinte comando:
 
 ```
-npx test
+npx jest
 ```
 
 Isso executará os testes e exibirá o resultado no console.
