@@ -20,7 +20,7 @@ git clone https://github.com/joaodutra88/C214-DesignPatterns
 2. Navegue até o diretório do projeto.
 
 ```
-cd word-counter
+cd C214-DesignPatterns
 ```
 
 3. Instale as dependências do projeto usando o npm ou yarn.
